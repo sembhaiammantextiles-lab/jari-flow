@@ -1,0 +1,6 @@
+{
+  "name": "JariFlow Pro",
+  "description": "Management of textile jobwork weight tracking, yield calculation, barcodes, and jobworker ledgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
